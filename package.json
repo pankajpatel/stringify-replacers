@@ -1,0 +1,20 @@
+{
+  "name": "stringify-replacers",
+  "version": "1.0.0",
+  "description": "`JSON.stringify` replacers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pankajpatel/stringify-replacers.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pankajpatel/stringify-replacers/issues"
+  },
+  "homepage": "https://github.com/pankajpatel/stringify-replacers#readme"
+}
